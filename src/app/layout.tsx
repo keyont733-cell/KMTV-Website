@@ -16,7 +16,7 @@ const workSans = Work_Sans({
 
 export const metadata: Metadata = {
   title: "KMTV Creative Media",
-  description: "Cinematic listing media and brand content.",
+  description: "Helping Brands Tell Stories That Inspire.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
