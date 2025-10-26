@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #101316;
+  --slate-600: #64748B;
+  --slate-200: #E2E8F0;
+  --slate-400: #94A3B8;
+}
+
+.font-head { font-family: var(--font-head), system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+.font-body { font-family: var(--font-body), ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
